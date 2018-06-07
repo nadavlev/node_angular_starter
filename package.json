@@ -1,0 +1,27 @@
+{
+  "name": "node_angular_starter",
+  "version": "1.0.0",
+  "description": "Node Angular Starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadavlev/node_angular_starter.git"
+  },
+  "author": "Nadav Lev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nadavlev/node_angular_starter/issues"
+  },
+  "homepage": "https://github.com/nadavlev/node_angular_starter#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nsp": "^3.2.1",
+    "open": "0.0.5"
+  }
+}
