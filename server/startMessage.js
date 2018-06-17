@@ -1,3 +1,3 @@
-/**
- * Created by Nadav on 15/06/2018.
- */
+import chalk from 'chalk';
+
+console.log(chalk.green('Starting App in dev mode'));
